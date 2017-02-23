@@ -1,17 +1,17 @@
 {
-  "name": "textmate-dawn-mod1-syntax",
+  "name": "atom-dawn-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "Textmate dawn-mod1 theme for Atom",
+  "description": "Port of the TextMate \"Dawn\" theme for Atom",
   "keywords": [
     "syntax",
     "theme",
     "textmate",
-    "dawn-mod1"
+    "dawn"
   ],
-  "repository": "https://github.com/phthhieu/textmate-dawn-mod1-syntax",
+  "repository": "https://github.com/gjherbiet/atom-dawn-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+     "atom": ">=1.13.0"
   }
 }
