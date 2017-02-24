@@ -2,7 +2,7 @@
   "name": "atom-dawn-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "Port of the TextMate \"Dawn\" theme for Atom",
+  "description": "Port of the TextMate \"Dawn\" syntax theme for Atom",
   "keywords": [
     "syntax",
     "theme",
